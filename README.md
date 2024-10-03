@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Nathaniel Gillam
+***Everyone is an atheist until you clog someone elses toilet - Sun Tzo***
 <!--
 **NathanielGillam/NathanielGillam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
