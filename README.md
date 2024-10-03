@@ -1,5 +1,22 @@
-# Nathaniel Gillam
+# Hello!
 ***Everyone is an atheist until you clog someone elses toilet - Sun Tzo***
+
+# Nathaniel Gillam
+
+[GitHub Repo](https://github.com/NathanielGillam)
+
+[CodePen](https://codepen.io/NathanielGillam)
+## Skills
+- Develpoment in:
+    - Python 
+    - Java
+    - C++
+    - HTML/CSS/JS
+    - C
+    - MySQL
+    - MongoDB
+    - Java Spring
+    
 <!--
 **NathanielGillam/NathanielGillam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
