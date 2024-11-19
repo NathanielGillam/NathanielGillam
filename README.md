@@ -1,21 +1,33 @@
-# Hello!
+# Hello, I'm Nathaniel!
 ***Everyone is an atheist until you clog someone elses toilet - Sun Tzo***
 
-# Nathaniel Gillam
+# You can find me around here:
+[LandingPage](https://nathanielgillam.github.io/)
 
 [GitHub Repo](https://github.com/NathanielGillam)
 
 [CodePen](https://codepen.io/NathanielGillam)
+
+[StackOverflow](https://stackexchange.com/users/20715341/bobik)
+
 ## Skills
-- Develpoment in:
+- Develpoment in and with:
     - Python 
     - Java
+        - Spring Framwork
     - C++
-    - HTML/CSS/JS
     - C
-    - MySQL
-    - MongoDB
-    - Java Spring
+    - MySQL and MongoDB
+    - HTML/CSS/JS
+        - JSX
+        - Astro
+        - Tailwind CSS
+        - Daisy UI
+        - HTMX
+     - Ladder Logic and STX programming
+     - Industrial PLC full scale development
+     - ASiBuS and Profibus Networks
+       
     
 <!--
 **NathanielGillam/NathanielGillam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
