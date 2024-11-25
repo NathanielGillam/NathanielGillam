@@ -1,6 +1,12 @@
 # Hello, I'm Nathaniel!
 ***Everyone is an atheist until you clog someone elses toilet - Sun Tzo***
 
+## About me:
+I am an experienced controls engineer and traditionally trained software developer with a passion for creating
+and creating more efficient processes. I have experience in
+using Ladder Logic, STX, Industrial Communications, C, C++, Python, Java, HTML, CSS, JavaScript, Node, MongoDB, MySQL, R, and Assembly. I am always looking for new
+opportunities to learn and grow as a developer.
+
 # You can find me around here:
 [LandingPage](https://nathanielgillam.github.io/)
 
